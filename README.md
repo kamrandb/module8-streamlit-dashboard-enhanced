@@ -70,7 +70,7 @@ You can access the deployed Streamlit dashboard at:
 ## How to Run the Dashboard Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/kamrandb/module8-streamlit-dashboard-enhanced](https://github.com/kamrandb/module8-streamlit-dashboard-enhanced)
+   git clone https://github.com/kamrandb/module8-streamlit-dashboard-enhanced
    ```
 2. Navigate to the project folder:
    ```bash

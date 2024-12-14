@@ -32,22 +32,18 @@ You can access the deployed Streamlit dashboard at:
 - Original: Displayed the number of columns, rows, and unique districts.
 - Enhanced: Retained these metrics but improved layout and added functionality to update dynamically based on filtered data.
 
-### 5. **Enhanced Data Preview**
-- Original: Displayed the entire dataset.
-- Enhanced: Limited the dataset preview to the first few rows for readability while maintaining filters.
-
-### 6. **Improved Visualizations**
+### 5. **Improved Visualizations**
 - Original:
   - Used `st.bar_chart` to show individual charts for Hybrid, In Person, and Remote modalities.
 - Enhanced:
   - Combined all learning modalities into a single, interactive line chart to display trends over time.
   - Added pie charts and bar charts with gradient colors to display the distribution of students by modality and across weeks.
 
-### 7. **Error Handling and Data Validation**
+### 6. **Error Handling and Data Validation**
 - Added checks to handle missing or filtered-out data, with warnings when no data is available for visualizations.
 - Ensured pivot tables always include all learning modalities, filling missing values with zeros.
 
-### 8. **User Interface Enhancements**
+### 7. **User Interface Enhancements**
 - Added spaces between widgets in the sidebar for better visual separation.
 - Alphabetized or kept the original order of district names based on user requirements.
 

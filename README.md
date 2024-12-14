@@ -1,4 +1,4 @@
-# 2024 AHI 507 Enhanced Streamlit Dashboard
+# HHA 507: 2024 Streamlit Dashboard - Enhanced
 
 ## Description
 This dashboard provides an interactive exploration of the 2020-2021 school learning modalities dataset released by the National Center for Education Statistics (NCES). The data covers learning modalities such as Hybrid, In Person, and Remote during the 2021 school year. Users can filter and analyze trends, visualize distributions, and gain insights into how schools adapted during this period.
@@ -70,7 +70,7 @@ You can access the deployed Streamlit dashboard at:
 ## How to Run the Dashboard Locally
 1. Clone this repository:
    ```bash
-   git clone [repository URL]
+   git clone [https://github.com/kamrandb/module8-streamlit-dashboard-enhanced](https://github.com/kamrandb/module8-streamlit-dashboard-enhanced)
    ```
 2. Navigate to the project folder:
    ```bash
@@ -94,6 +94,4 @@ This dashboard uses the 2020-2021 school learning modalities dataset provided by
 ---
 
 ## Authors
-Developed as part of the 2024 AHI 507 coursework.
-Dr. Hants Williams - Created original streamlit app.
-Kamran Butt - Modified and enhanced streamlit app as part of course assignment.
+Developed as part of the 2024 AHI 507 coursework. Dr. Hants Williams, created original streamlit application. Kamran Butt, modified and enhanced streamlit application code as part of course assignment.

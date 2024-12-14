@@ -5,7 +5,7 @@ This dashboard provides an interactive exploration of the 2020-2021 school learn
 
 ---
 
-## Deployed Dashboard URL
+## Dashboard URL
 You can access the deployed Streamlit dashboard at:
 [Insert Streamlit dashboard URL here]
 

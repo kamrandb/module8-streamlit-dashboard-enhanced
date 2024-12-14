@@ -90,4 +90,4 @@ This dashboard uses the 2020-2021 school learning modalities dataset provided by
 ---
 
 ## Authors
-Developed as part of the 2024 AHI 507 coursework. Dr. Hants Williams, created original streamlit application. Kamran Butt, modified and enhanced streamlit application code as part of course assignment.
+Developed as part of the 2024 HHA 507 coursework. Dr. Hants Williams, created original streamlit application. Kamran Butt, modified and enhanced streamlit application code as part of the course's assignment.

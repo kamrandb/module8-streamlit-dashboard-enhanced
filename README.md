@@ -6,8 +6,8 @@ This dashboard provides an interactive exploration of the 2020-2021 school learn
 ---
 
 ## Dashboard URL
-You can access the deployed Streamlit dashboard at:
-[Insert Streamlit dashboard URL here]
+You can access the deployed Streamlit dashboard here:
+[HHA 507: 2024 Streamlit Dashboard - Enhanced](https://module8-app-dashboard-enhanced-pvzktbbbcvcoqyaqkxmdqt.streamlit.app/)
 
 ---
 
